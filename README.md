@@ -16,8 +16,8 @@
 ## Foreign key table relationships
 ![](./images/tables_in_the_database.png)
 
-## Sample data used for the project
-[a link](https://github.com/VioletaSanchez/MySQL-uni-database-project/blob/main/populating_tables_with_sample_data.txt)
+## Sample data
+[Sample data used for the project](https://github.com/VioletaSanchez/MySQL-uni-database-project/blob/main/populating_tables_with_sample_data.txt)
 
 ## SQL query scripts
-[a link](https://github.com/VioletaSanchez/MySQL-uni-database-project/blob/main/MySQL%20queries.md)
+[SQL query scripts used for the project](https://github.com/VioletaSanchez/MySQL-uni-database-project/blob/main/MySQL%20queries.md)
